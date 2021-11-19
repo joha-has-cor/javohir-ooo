@@ -1,0 +1,85 @@
+.links{
+    background-color: grey;
+    
+}
+.lolo{
+    text-align: center;
+}
+.logo
+{
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 700;
+    
+}
+ul , li{
+    display:inline-block;
+}
+.texts a{
+font-weight: 600;
+font-size: 20px;
+text-decoration: none;
+}
+.attak{
+
+}
+.band{
+   
+    display: inline-block;
+    width: 48%;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.dodo{
+    text-align: center;
+    border: 1px solid black;
+}
+.dudu{
+    
+    text-align: center;
+}
+.lulu{
+    text-align: center;
+    font-size: 30px;
+}
+.card{
+ 
+     display: inline-block;
+    width: 30%;
+    text-align: center;
+  
+}
+.cards{
+    display: inline-block;
+    width: 30%;
+    text-align: center;   }
+    .learn{
+        text-align: center;
+        color: #029;
+
+    }
+.feeds{
+    background-color:#67C3F3 ;
+    text-align: center;
+    
+}
+.main-title{
+    text-align: center;
+    color: white;
+}
+.coook{
+    display: inline-block;
+    width: 40%;
+}
+.feedback{
+
+    display: inline-block;
+    width: 40%;
+    
+}
+.cook{
+    display: inline-block;
+    width: 40%;
+    
+}
